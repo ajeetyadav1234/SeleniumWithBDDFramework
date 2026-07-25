@@ -1,0 +1,4 @@
+com\example\tests\runners\TestRunner.class
+com\example\tests\steps\SearchSteps.class
+com\example\tests\hooks\Hooks.class
+com\example\tests\steps\LoginSteps.class

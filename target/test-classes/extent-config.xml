@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>dark</theme>
+        <encoding>UTF-8</encoding>
+        <documentTitle>Login Test Report</documentTitle>
+        <reportName>Extent Report</reportName>
+        <timeFormat>yyyy-MM-dd HH:mm:ss</timeFormat>
+    </configuration>
+</extentreports>
